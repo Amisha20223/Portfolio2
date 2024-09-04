@@ -25,10 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Finius"
+              description="Financially Genius is a platform designed to offer in-depth financial education through four core pillars: budgeting, saving, investing, and financial planning. Users can gain knowledge through a variety of articles, blogs, and videos, while also engaging with our interactive training simulator built with Webgl, providing an immersive and interactive learning experience on the website. "
+              ghLink="https://github.com/Amisha20223/FINIUS"
+              demoLink="https://finius-seven.vercel.app/"
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Billing System "
+              description="• Crafted a comprehensive billing system using JavaScript and React.Produced a billing solution supporting 4+ payment gateways, boosting customer satisfaction by 30% postimplementation"
+              ghLink="https://github.com/Amisha20223/BillingSystem"
+              
             />
           </Col>
 
@@ -47,10 +47,12 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="ACITEWEBPORTAl"
+              description="An online college portal designed for curriculum development, allowing colleges to track and share updates on their customized curriculum designs. Each college can submit their unique curriculum approach to the portal, 
+              which will collect and analyze the data. The system then identifies the most suitable 
+              curriculum design to be adopted by all participating colleges. "
+              ghLink="https://github.com/Amisha20223/AICTEWEBPORTAL"
+                           
             />
           </Col>
 
@@ -58,10 +60,10 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Weather Web "
+              description="Used an API to forecast the weather of any region in India."
+              ghLink="https://github.com/Amisha20223/Practice-Project"
+              demoLink="https://amisha20223.github.io/Practice-Project/"
             />
           </Col>
 
@@ -69,10 +71,10 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="Food App"
+              description="Just a Food App website for Practice"
+              ghLink="https://github.com/Amisha20223/FOOD"
+             
             />
           </Col>
 
@@ -80,11 +82,13 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Churn Data Analyisis Using Power BI"
+              description="The objective of this analysis is to 
+              leverage Power BI to visualize customer churn across different segments, identify key factors 
+              contributing to churn, predict future churn, and provide actionable insights for targeted 
+              interventions to retain at-risk customers. "
+              ghLink="https://github.com/Amisha20223/Chrundata"
+              
             />
           </Col>
         </Row>
